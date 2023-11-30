@@ -8,6 +8,8 @@ using System.Globalization;
 using System.Linq.Expressions;
 
 string[] array = new string[] { "Hello", "2", "world", ":-)" };
+// string[] array = new string[] { "1234", "1567", "-2", "computer science" };
+// string[] array = new string[] { "Russia", "Denmark", "Kazan" };
 int count = 0;
 for(int i = 0; i < array.Length; i++)
 {
